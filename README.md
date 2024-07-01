@@ -1,8 +1,4 @@
-# React + Vite
+<h1>V tomto projektu byly použity technologie jako React JS + Vite</h1>
+<h3></h3>Stránky jsou plně optimalizovány pro mobilní zařízení, mají minimalistický design a intuitivní UI. K vytvoření stranek byl použit framework Tailwind CSS.</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![fotka](https://github.com/tonylipch/Job-Finder/assets/91372267/781b731f-2407-4984-8ea1-3cad3d2f5c1b)
